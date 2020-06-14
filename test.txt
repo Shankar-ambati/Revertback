@@ -1,3 +1,0 @@
-sample.
-
-Changes in this file will be revert.
